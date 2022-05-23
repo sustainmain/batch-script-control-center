@@ -1,0 +1,19 @@
+BUILT-IN COMMANDS:
+******************
+add
+calc
+cmd
+exit
+help
+note
+
+
+CUSTOM COMMANDS:
+******************
+desmos
+taskman
+drive
+docs
+mail
+class
+goog
